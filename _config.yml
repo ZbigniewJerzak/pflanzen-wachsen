@@ -1,5 +1,5 @@
 makecode:
-  target: calliopemini
+  target: calliope
   platform: calliopemini
   home_url: https://makecode.calliope.cc/
 theme: jekyll-theme-slate
